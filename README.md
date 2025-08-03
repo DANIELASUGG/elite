@@ -1,0 +1,2 @@
+# elite
+git init git remote add origin https://github.com/seu-usuario/seu-repositorio.git git add . git commit -m "primeiro commit" git push -u origin main
